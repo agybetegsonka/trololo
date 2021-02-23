@@ -1,0 +1,34 @@
+body {
+    font-family: 'Kaushan Script', cursive;
+}
+
+.hidden1 , .hidden2 , .hidden3 , .hidden4 , .hidden5 , .hidden6 , .hidden7 , .hidden8 , .hidden9, .hidden10 {
+    display:none;
+}
+
+.hiddenImg1 , .hiddenImg2 , .hiddenImg3 {
+    display: none;
+}
+
+img {
+    border-radius: 10px;
+    width: 200px;
+}
+
+#img1 {
+    position: fixed;
+    top: 130px;
+    left: 100px;
+}
+
+#img2 {
+    position:fixed;
+    top: 130px;
+    right: 100px;
+}
+
+#img3 {
+    position: fixed;
+    top: 300px;
+    left: 100px;
+}
